@@ -2,3 +2,4 @@ pandas
 yfinance
 psycopg2
 sqlite3
+streamlit
